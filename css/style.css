@@ -50,4 +50,6 @@ nav .container {
 .get-landguru {
     text-transform: capitalize;
     color: #FFFFFF;
+    border: 2px solid darkgray;
+    padding: 15px 25px;
 }
