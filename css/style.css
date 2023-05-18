@@ -56,5 +56,6 @@ nav .container {
 }
 
 .text-landguru {
-    color #FFFFFF
+    color: #FFFFFF;
+    text-transform: capitalize;
 }
