@@ -34,3 +34,7 @@ nav .container {
 .ul_s {
     display: flex;
 }
+
+.link-landguru {
+    margin: 0 15px;
+}
