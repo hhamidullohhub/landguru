@@ -25,3 +25,7 @@ body {
 .img-landguru {
     display: flex;
 }
+
+nav .container {
+    display: flex;
+}
