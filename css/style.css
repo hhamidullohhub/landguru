@@ -37,4 +37,5 @@ nav .container {
 
 .link-landguru {
     margin: 0 15px;
+    text-transform: capitalize;
 }
