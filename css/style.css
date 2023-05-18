@@ -12,3 +12,8 @@ a {
 ul.li {
     list-style: none;
 }
+
+.container {
+    width: 1140px;
+    
+}
