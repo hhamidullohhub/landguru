@@ -9,13 +9,12 @@ a {
     display: inline-block;
 }
 
-ul.li {
+li {
     list-style: none;
 }
 
 body {
-    font-family: sans-serif
-    ;
+    font-family: sans-serif;
 }
 
 .container {
