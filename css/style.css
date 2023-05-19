@@ -112,7 +112,7 @@ body {
     }
 
     nav .container {
-        position: relative;
+        flex-direction: column;
     }
 
     .get-landguru {
@@ -136,6 +136,7 @@ body {
 
 header {
     background-color: #2A5298;
+    height: 100px;
 }
 
 nav .container {
