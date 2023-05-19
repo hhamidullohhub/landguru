@@ -39,24 +39,28 @@ body {
 @media (max-width: 960px) {
     .container {
        width: 840px;
+       background-color: orangered;
     }
 }
 
 @media (max-width: 860px) {
     .container {
        width: 740px;
+       background-color: blue;
     }
 }
 
 @media (max-width: 760px) {
     .container {
        width: 640px;
+       background-color: coral;
     }
 }
 
 @media (max-width: 660px) {
     .container {
        width: 540px;
+       background-color: ;
     }
 }
 
