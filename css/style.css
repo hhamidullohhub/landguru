@@ -22,10 +22,9 @@ body {
     margin: 0 auto;
 }
 
-@media(max)
-
 .img-landguru {
     display: flex;
+    align-items: center;
 }
 
 header {
