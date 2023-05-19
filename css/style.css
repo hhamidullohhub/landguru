@@ -101,12 +101,12 @@ body {
     }
 
     .get-landguru {
-       width: 50px;
+       width: 100px;
        height: 20px;
     }
 
     .get-landguru p {
-        
+        font-size: 8px;
     }
 }
 
