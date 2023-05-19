@@ -59,6 +59,10 @@ body {
        width: 640px;
        background-color: coral;
     }
+
+    .link-landguru {
+        
+    }
 }
 
 @media (max-width: 660px) {
