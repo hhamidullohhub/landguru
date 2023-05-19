@@ -108,7 +108,7 @@ body {
        width: 100px;
        height: 20px;
        text-align: center;
-       margin-top: 200px;
+       margin-top: 30px;
     }
 
     .get-landguru p {
@@ -118,7 +118,6 @@ body {
 
     nav .container {
         flex-direction: column;
-        padding-top: 15px;
     }
 
     .get-landguru {
@@ -148,7 +147,6 @@ nav .container {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: 30px;
 }
 
 .ul_s {
