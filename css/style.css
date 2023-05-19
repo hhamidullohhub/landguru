@@ -25,7 +25,62 @@ body {
 @media (max-width: 1160px) {
      .container {
         width: 1040px;
+        background-color: red;
      }
+}
+
+@media (max-width: 1060px) {
+    .container {
+       width: 940px;
+    }
+}
+
+@media (max-width: 960px) {
+    .container {
+       width: 840px;
+    }
+}
+
+@media (max-width: 860px) {
+    .container {
+       width: 740px;
+    }
+}
+
+@media (max-width: 760px) {
+    .container {
+       width: 640px;
+    }
+}
+
+@media (max-width: 660px) {
+    .container {
+       width: 540px;
+    }
+}
+
+@media (max-width: 560px) {
+    .container {
+       width: 440px;
+    }
+}
+
+@media (max-width: 460px) {
+    .container {
+       width: 340px;
+    }
+}
+
+@media (max-width: 360px) {
+    .container {
+       width: 240px;
+    }
+}
+
+@media (max-width: 260px) {
+    .container {
+       width: 140px;
+    }
 }
 
 
