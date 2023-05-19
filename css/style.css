@@ -70,6 +70,10 @@ body {
        width: 540px;
        background-color: purple;
     }
+
+    .link-landguru {
+        
+    }
 }
 
 @media (max-width: 560px) {
