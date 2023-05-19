@@ -22,7 +22,7 @@ body {
     margin: 0 auto;
 }
 
-@media (max-width: 1160px){
+@media (max-width: 1160px) {
      .container {
         width: 1040px;
      }
