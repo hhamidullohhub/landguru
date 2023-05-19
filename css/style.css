@@ -103,10 +103,12 @@ body {
     .get-landguru {
        width: 100px;
        height: 20px;
+       text-align: center;
     }
 
     .get-landguru p {
         font-size: 8px;
+        margin-top: -4px;
     }
 }
 
