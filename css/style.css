@@ -48,6 +48,10 @@ body {
        width: 740px;
        background-color: blue;
     }
+
+    .text-landguru {
+        font-size: 20px;
+    }
 }
 
 @media (max-width: 760px) {
