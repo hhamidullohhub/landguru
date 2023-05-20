@@ -156,6 +156,10 @@ nav .container {
     border-radius: 25px;
 }
 
+main {
+    background-color: #2A5298;
+}
+
 .text-landguru {
     color: #FFFFFF;
     text-transform: capitalize;
@@ -165,4 +169,5 @@ nav .container {
 .explore-text {
     font-size: 85px;
     width: 900px;
+    color: white;
 }
