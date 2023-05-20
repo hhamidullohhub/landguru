@@ -161,3 +161,7 @@ nav .container {
     text-transform: capitalize;
     margin-left: 20px;
 }
+
+.explore-text {
+    font-size: 85px;
+}
