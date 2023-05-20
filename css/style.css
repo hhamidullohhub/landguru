@@ -222,7 +222,11 @@ main {
 .Sponsored-all {
     display: flex;
     color:#B7BEC9;
-}   
+}
+
+.linked-paypal {
+    display: flex;
+}
 
 .linked_sponsored {
     display: flex;
