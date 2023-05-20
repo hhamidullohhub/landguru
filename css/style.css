@@ -223,3 +223,7 @@ main {
     display: flex;
     color:#B7BEC9;
 }
+
+.linked_sponsored {
+    display: flex;
+}
