@@ -187,6 +187,11 @@ main {
     align-items: center;
 }
 
+.link-get {
+    background-color: white;
+    
+}
+
 .play-all {
     margin-left: 20px;
     display: flex;
