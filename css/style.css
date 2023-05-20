@@ -218,3 +218,7 @@ main {
     width: 500px;
     margin-right: -200px;
 }
+
+.Sponsored-all {
+    display: flex;
+}
