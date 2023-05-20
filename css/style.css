@@ -28,6 +28,10 @@ body {
         background-color: red;
      }
 
+     .explore-text {
+        font-size: 20px;
+     }
+
      .phone-img {
         width: 100px;
         height: 300px;
