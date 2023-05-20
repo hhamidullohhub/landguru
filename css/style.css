@@ -27,6 +27,11 @@ body {
         width: 1040px;
         background-color: red;
      }
+
+     .phone-img {
+        width: 100px;
+        height: 300px;
+    }
 }
 
 @media (max-width: 1060px) {
