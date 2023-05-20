@@ -222,13 +222,14 @@ main {
 .Sponsored-all {
     display: flex;
     color:#B7BEC9;
-    
 }
 
 .linked-paypal {
     display: flex;
+    margin-left: 10px;
 }
 
 .linked_dropbox {
     display: flex;
+    margin-left: 10px;
 }
