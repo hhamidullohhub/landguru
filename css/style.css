@@ -224,6 +224,10 @@ main {
     color:#B7BEC9;
 }
 
+.linked-sponsored {
+    margin-left: 10px;
+}
+
 .linked-paypal {
     display: flex;
     margin-left: 10px;
