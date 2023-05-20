@@ -190,6 +190,8 @@ main {
 .link-get {
     background-color: white;
     color: rgb(12, 12, 147);
+    border-radius: 20px;
+    padding: 15px 30px;
 }
 
 .play-all {
