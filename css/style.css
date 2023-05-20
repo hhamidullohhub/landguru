@@ -186,3 +186,9 @@ main {
     display: flex;
     align-items: center;
 }
+
+.play-all {
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+}
