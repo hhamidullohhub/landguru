@@ -184,4 +184,5 @@ main {
 
 .linked-all {
     display: flex;
+    align-items: center;
 }
