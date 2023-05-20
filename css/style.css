@@ -181,3 +181,7 @@ main {
     line-height: 30px;
     margin-top: 25px;
 }
+
+.linked-all {
+    display: flex;
+}
