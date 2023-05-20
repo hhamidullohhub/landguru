@@ -168,6 +168,10 @@ main {
     margin-left: 20px;
 }
 
+.Experience-all {
+    display: flex;
+}
+
 .explore-text {
     font-size: 85px;
     width: 900px;
