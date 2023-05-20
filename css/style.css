@@ -180,6 +180,8 @@ main {
     font: 18px;
     line-height: 30px;
     margin-top: 25px;
+    font-weight: bolder;
+    letter-spacing: 1px;
 }
 
 .linked-all {
