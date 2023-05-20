@@ -100,30 +100,11 @@ body {
        background-color: aqua;
     }
 
-    header {
-       height: 100px;
-    }
-
-    .get-landguru {
-       width: 100px;
-       height: 20px;
-       text-align: center;
-       margin-top: 30px;
-    }
-
-    .get-landguru p {
-        font-size: 9px;
-        margin-top: -10px;
-    }
-
     nav .container {
         flex-direction: column;
     }
 
-    .get-landguru {
-        position: absolute;
-        margin-top: 20px;
-    }
+
 }
 
 @media (max-width: 260px) {
