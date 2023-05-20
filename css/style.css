@@ -170,6 +170,8 @@ main {
 
 .Experience-all {
     display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 .explore-text {
@@ -213,5 +215,6 @@ main {
 }
 
 .exploring-img img {
-    width: 650px;
+    width: 500px;
+    margin-right: -200px;
 }
